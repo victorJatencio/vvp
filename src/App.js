@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Velis Video Productions
+          Velis Video Productions.
         </a>
       </header>
     </div>
